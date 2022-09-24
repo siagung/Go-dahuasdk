@@ -1,0 +1,298 @@
+Begin Time:2022-09-24 11:18:10.514
+[2022-09-24 11:18:10.515][P:7820/T:5092][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:18:10.565][P:7820/T:5092][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 000001B9767D0000
+
+[2022-09-24 11:18:10.569][P:7820/T:5092][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:18:10.569][P:7820/T:5092][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:18:10.570][P:7820/T:5092][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:18:10.593][P:7820/T:5092][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 000001B9767D0000
+
+[2022-09-24 11:18:10.593][P:7820/T:5092][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:18:10.601][P:7820/T:5092][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:18:10.601][P:7820/T:5092][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=NULL, port=37777, SpeCap=0, lpDeviceInfo=000000C000022150.]
+[2022-09-24 11:18:10.601][P:7820/T:5092][dhnetsdk.cpp:588][Error][80000007] Invalid param, IP is NULL
+Begin Time:2022-09-24 11:20:23.020
+[2022-09-24 11:20:23.020][P:7908/T:5280][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:20:23.076][P:7908/T:5280][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 000001F950980000
+
+[2022-09-24 11:20:23.080][P:7908/T:5280][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:20:23.080][P:7908/T:5280][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:20:23.080][P:7908/T:5280][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:20:23.098][P:7908/T:5280][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 000001F950980000
+
+[2022-09-24 11:20:23.098][P:7908/T:5280][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:20:23.106][P:7908/T:5280][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:20:23.106][P:7908/T:5280][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=NULL, port=37777, SpeCap=0, lpDeviceInfo=000000C0000CC000.]
+[2022-09-24 11:20:23.106][P:7908/T:5280][dhnetsdk.cpp:588][Error][80000007] Invalid param, IP is NULL
+Begin Time:2022-09-24 11:20:34.988
+[2022-09-24 11:20:34.988][P:7408/T:7564][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:20:35.021][P:7408/T:7564][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 00000258C6020000
+
+[2022-09-24 11:20:35.025][P:7408/T:7564][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:20:35.025][P:7408/T:7564][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:20:35.025][P:7408/T:7564][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:20:35.050][P:7408/T:7564][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 00000258C6020000
+
+[2022-09-24 11:20:35.050][P:7408/T:7564][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:20:35.056][P:7408/T:7564][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:20:35.056][P:7408/T:7564][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=NULL, port=37777, SpeCap=0, lpDeviceInfo=000000C0000CC000.]
+[2022-09-24 11:20:35.057][P:7408/T:7564][dhnetsdk.cpp:588][Error][80000007] Invalid param, IP is NULL
+Begin Time:2022-09-24 11:24:01.771
+[2022-09-24 11:24:01.771][P:4468/T:7732][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:24:02.707][P:4468/T:7732][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 0000028BB9860000
+
+[2022-09-24 11:24:02.711][P:4468/T:7732][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:24:02.711][P:4468/T:7732][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:24:02.711][P:4468/T:7732][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:24:02.734][P:4468/T:7732][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 0000028BB9860000
+
+[2022-09-24 11:24:02.734][P:4468/T:7732][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:24:02.767][P:4468/T:7732][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:24:02.767][P:4468/T:7732][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=NULL, port=37777, SpeCap=0, lpDeviceInfo=000000C0000CC000.]
+[2022-09-24 11:24:02.768][P:4468/T:7732][dhnetsdk.cpp:588][Error][80000007] Invalid param, IP is NULL
+Begin Time:2022-09-24 11:24:05.816
+[2022-09-24 11:24:05.816][P:5820/T:7416][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:24:05.857][P:5820/T:7416][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 0000027FED0C0000
+
+[2022-09-24 11:24:05.860][P:5820/T:7416][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:24:05.861][P:5820/T:7416][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:24:05.861][P:5820/T:7416][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:24:05.886][P:5820/T:7416][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 0000027FED0C0000
+
+[2022-09-24 11:24:05.886][P:5820/T:7416][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:24:05.892][P:5820/T:7416][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:24:05.892][P:5820/T:7416][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=NULL, port=37777, SpeCap=0, lpDeviceInfo=000000C000022150.]
+[2022-09-24 11:24:05.892][P:5820/T:7416][dhnetsdk.cpp:588][Error][80000007] Invalid param, IP is NULL
+Begin Time:2022-09-24 11:24:14.108
+[2022-09-24 11:24:14.108][P:6984/T:7516][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:24:14.141][P:6984/T:7516][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 00000159573E0000
+
+[2022-09-24 11:24:14.145][P:6984/T:7516][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:24:14.145][P:6984/T:7516][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:24:14.145][P:6984/T:7516][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:24:14.169][P:6984/T:7516][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 00000159573E0000
+
+[2022-09-24 11:24:14.169][P:6984/T:7516][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:24:14.175][P:6984/T:7516][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:24:14.175][P:6984/T:7516][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=NULL, port=37777, SpeCap=0, lpDeviceInfo=000000C00001E150.]
+[2022-09-24 11:24:14.175][P:6984/T:7516][dhnetsdk.cpp:588][Error][80000007] Invalid param, IP is NULL
+Begin Time:2022-09-24 11:24:16.931
+[2022-09-24 11:24:16.932][P:6804/T:5408][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:24:16.973][P:6804/T:5408][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 00000203F23D0000
+
+[2022-09-24 11:24:16.977][P:6804/T:5408][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:24:16.977][P:6804/T:5408][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:24:16.977][P:6804/T:5408][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:24:17.004][P:6804/T:5408][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 00000203F23D0000
+
+[2022-09-24 11:24:17.004][P:6804/T:5408][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:24:17.010][P:6804/T:5408][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:24:17.010][P:6804/T:5408][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=NULL, port=37777, SpeCap=0, lpDeviceInfo=000000C00001E150.]
+[2022-09-24 11:24:17.010][P:6804/T:5408][dhnetsdk.cpp:588][Error][80000007] Invalid param, IP is NULL
+Begin Time:2022-09-24 11:25:54.409
+[2022-09-24 11:25:54.409][P:1844/T:7456][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:25:54.433][P:1844/T:7456][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 0000018FFEA80000
+
+[2022-09-24 11:25:54.434][P:1844/T:7456][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:25:54.434][P:1844/T:7456][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:25:54.434][P:1844/T:7456][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:25:54.444][P:1844/T:7456][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 0000018FFEA80000
+
+[2022-09-24 11:25:54.445][P:1844/T:7456][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:25:54.449][P:1844/T:7456][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:25:54.450][P:1844/T:7456][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=NULL, port=37777, SpeCap=0, lpDeviceInfo=000000C000022150.]
+[2022-09-24 11:25:54.450][P:1844/T:7456][dhnetsdk.cpp:588][Error][80000007] Invalid param, IP is NULL
+Begin Time:2022-09-24 11:28:44.581
+[2022-09-24 11:28:44.581][P:5684/T:5980][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:28:44.624][P:5684/T:5980][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 0000025AAE2E0000
+
+[2022-09-24 11:28:44.629][P:5684/T:5980][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:28:44.629][P:5684/T:5980][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:28:44.629][P:5684/T:5980][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:28:44.653][P:5684/T:5980][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 0000025AAE2E0000
+
+[2022-09-24 11:28:44.653][P:5684/T:5980][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:28:44.662][P:5684/T:5980][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:28:44.662][P:5684/T:5980][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=NULL, port=37777, SpeCap=0, lpDeviceInfo=000000C000022150.]
+[2022-09-24 11:28:44.662][P:5684/T:5980][dhnetsdk.cpp:588][Error][80000007] Invalid param, IP is NULL
+Begin Time:2022-09-24 11:29:19.641
+[2022-09-24 11:29:19.642][P:8652/T:8656][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:29:19.675][P:8652/T:8656][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 0000026577440000
+
+[2022-09-24 11:29:19.679][P:8652/T:8656][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:29:19.679][P:8652/T:8656][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:29:19.679][P:8652/T:8656][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:29:19.701][P:8652/T:8656][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 0000026577440000
+
+[2022-09-24 11:29:19.701][P:8652/T:8656][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:29:19.707][P:8652/T:8656][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:29:19.707][P:8652/T:8656][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=NULL, port=37777, SpeCap=0, lpDeviceInfo=000000C0000CC000.]
+[2022-09-24 11:29:19.708][P:8652/T:8656][dhnetsdk.cpp:588][Error][80000007] Invalid param, IP is NULL
+Begin Time:2022-09-24 11:31:15.518
+[2022-09-24 11:31:15.518][P:8412/T:8396][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:31:15.551][P:8412/T:8396][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 000001A5BF550000
+
+[2022-09-24 11:31:15.555][P:8412/T:8396][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:31:15.555][P:8412/T:8396][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:31:15.555][P:8412/T:8396][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:31:15.574][P:8412/T:8396][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 000001A5BF550000
+
+[2022-09-24 11:31:15.574][P:8412/T:8396][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:31:15.582][P:8412/T:8396][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:31:15.583][P:8412/T:8396][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=NULL, port=37777, SpeCap=0, lpDeviceInfo=000000C000022150.]
+[2022-09-24 11:31:15.583][P:8412/T:8396][dhnetsdk.cpp:588][Error][80000007] Invalid param, IP is NULL
+Begin Time:2022-09-24 11:32:03.541
+[2022-09-24 11:32:03.541][P:5276/T:7076][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:32:03.719][P:5276/T:7076][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 00000208E0860000
+
+[2022-09-24 11:32:03.724][P:5276/T:7076][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:32:03.725][P:5276/T:7076][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:32:03.725][P:5276/T:7076][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:32:03.743][P:5276/T:7076][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 00000208E0860000
+
+[2022-09-24 11:32:03.743][P:5276/T:7076][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:32:03.833][P:5276/T:7076][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:32:03.833][P:5276/T:7076][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=10.10.2.15, port=37777, SpeCap=0, lpDeviceInfo=000000C000022150.]
+[2022-09-24 11:32:05.336][P:5276/T:7076][TPTCPClient.cpp:378][Error][90010007] Connect host failed, ip:10.10.2.15
+[2022-09-24 11:32:06.837][P:5276/T:7076][TPTCPClient.cpp:378][Error][90010007] Connect host failed, ip:10.10.2.15
+[2022-09-24 11:32:06.837][P:5276/T:7076][dhdevprob.cpp:2226][Error][8000040a] Failed to create main connection
+[2022-09-24 11:32:06.837][P:5276/T:7076][Manager.cpp:7549][Error][90010002] device is NULL
+[2022-09-24 11:32:06.837][P:5276/T:7076][Manager.cpp:7646][Error][90010002] Login device failed, errorcode:9!
+[2022-09-24 11:32:06.837][P:5276/T:7076][dhnetsdk.cpp:609][Error][90010002] Login failed, ip:10.10.2.15, port:37777, specCap:0!
+[2022-09-24 11:32:06.837][P:5276/T:7076][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=9, login ID=0.]
+Begin Time:2022-09-24 11:32:32.571
+[2022-09-24 11:32:32.571][P:9012/T:8960][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:32:32.598][P:9012/T:8960][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 00000207AB520000
+
+[2022-09-24 11:32:32.602][P:9012/T:8960][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:32:32.602][P:9012/T:8960][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:32:32.602][P:9012/T:8960][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:32:32.624][P:9012/T:8960][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 00000207AB520000
+
+[2022-09-24 11:32:32.625][P:9012/T:8960][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:32:32.631][P:9012/T:8960][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:32:32.631][P:9012/T:8960][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=192.168.1.108, port=37777, SpeCap=0, lpDeviceInfo=000000C0000CC000.]
+[2022-09-24 11:32:32.803][P:9012/T:8960][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=0, login ID=-1423810816.]
+[2022-09-24 11:32:32.806][P:9012/T:8960][dhnetsdk.cpp:5342][Info][0] Enter CLIENT_QuerySystemInfo. [lLoginID=-1423810816, nSystemType=26, pSysInfoBuffer=000000C0000D0000, maxlen=2048, nSysInfolen=000000C0000A20F8, waittime=1000.]
+[2022-09-24 11:32:32.823][P:9012/T:1164][DecoderDevice.cpp:145][Error][90000008] Error device response code: -1
+[2022-09-24 11:32:32.823][P:9012/T:8960][DecoderDevice.cpp:410][Error][80000015] Return data error!
+[2022-09-24 11:32:32.823][P:9012/T:8960][dhnetsdk.cpp:5378][Info][0] Leave CLIENT_QuerySystemInfo.[ret=1.]
+Begin Time:2022-09-24 11:33:20.186
+[2022-09-24 11:33:20.187][P:8328/T:5820][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:33:20.216][P:8328/T:5820][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 000001F6EDB10000
+
+[2022-09-24 11:33:20.220][P:8328/T:5820][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:33:20.220][P:8328/T:5820][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:33:20.220][P:8328/T:5820][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:33:20.246][P:8328/T:5820][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 000001F6EDB10000
+
+[2022-09-24 11:33:20.246][P:8328/T:5820][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:33:20.252][P:8328/T:5820][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:33:20.252][P:8328/T:5820][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=192.168.1.108, port=37777, SpeCap=0, lpDeviceInfo=000000C0000CC000.]
+[2022-09-24 11:33:20.368][P:8328/T:5820][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=0, login ID=-310339840.]
+[2022-09-24 11:33:20.369][P:8328/T:5820][dhnetsdk.cpp:5342][Info][0] Enter CLIENT_QuerySystemInfo. [lLoginID=-310339840, nSystemType=26, pSysInfoBuffer=000000C0000D0000, maxlen=2048, nSysInfolen=000000C0000A20F8, waittime=1000.]
+[2022-09-24 11:33:20.382][P:8328/T:8288][DecoderDevice.cpp:145][Error][90000008] Error device response code: -1
+[2022-09-24 11:33:20.382][P:8328/T:5820][DecoderDevice.cpp:410][Error][80000015] Return data error!
+[2022-09-24 11:33:20.382][P:8328/T:5820][dhnetsdk.cpp:5378][Info][0] Leave CLIENT_QuerySystemInfo.[ret=1.]
+Begin Time:2022-09-24 11:34:28.398
+[2022-09-24 11:34:28.398][P:9048/T:8844][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:34:28.429][P:9048/T:8844][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 0000015E72280000
+
+[2022-09-24 11:34:28.433][P:9048/T:8844][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:34:28.433][P:9048/T:8844][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:34:28.434][P:9048/T:8844][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:34:28.454][P:9048/T:8844][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 0000015E72280000
+
+[2022-09-24 11:34:28.454][P:9048/T:8844][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:34:28.460][P:9048/T:8844][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:34:28.460][P:9048/T:8844][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=192.168.1.108, port=37777, SpeCap=0, lpDeviceInfo=000000C000022150.]
+[2022-09-24 11:34:28.566][P:9048/T:8844][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=0, login ID=1911121680.]
+[2022-09-24 11:34:28.567][P:9048/T:8844][dhnetsdk.cpp:5342][Info][0] Enter CLIENT_QuerySystemInfo. [lLoginID=1911121680, nSystemType=26, pSysInfoBuffer=000000C00001C800, maxlen=2048, nSysInfolen=000000C0000181F8, waittime=1000.]
+[2022-09-24 11:34:28.579][P:9048/T:4560][DecoderDevice.cpp:145][Error][90000008] Error device response code: -1
+[2022-09-24 11:34:28.579][P:9048/T:8844][DecoderDevice.cpp:410][Error][80000015] Return data error!
+[2022-09-24 11:34:28.579][P:9048/T:8844][dhnetsdk.cpp:5378][Info][0] Leave CLIENT_QuerySystemInfo.[ret=1.]
+Begin Time:2022-09-24 11:36:47.521
+[2022-09-24 11:36:47.521][P:5580/T:7912][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:36:47.548][P:5580/T:7912][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 000001E872720000
+
+[2022-09-24 11:36:47.552][P:5580/T:7912][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:36:47.552][P:5580/T:7912][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:36:47.552][P:5580/T:7912][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:36:47.571][P:5580/T:7912][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 000001E872720000
+
+[2022-09-24 11:36:47.571][P:5580/T:7912][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:36:47.578][P:5580/T:7912][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:36:47.578][P:5580/T:7912][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=192.168.1.108, port=37777, SpeCap=0, lpDeviceInfo=000000C0000CC000.]
+[2022-09-24 11:36:47.700][P:5580/T:7912][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=0, login ID=1916296224.]
+[2022-09-24 11:36:47.701][P:5580/T:7912][dhnetsdk.cpp:5342][Info][0] Enter CLIENT_QuerySystemInfo. [lLoginID=1916296224, nSystemType=26, pSysInfoBuffer=000000C0000D2000, maxlen=2048, nSysInfolen=000000C0000A20F8, waittime=1000.]
+[2022-09-24 11:36:47.732][P:5580/T:444][DecoderDevice.cpp:145][Error][90000008] Error device response code: -1
+[2022-09-24 11:36:47.732][P:5580/T:7912][DecoderDevice.cpp:410][Error][80000015] Return data error!
+[2022-09-24 11:36:47.732][P:5580/T:7912][dhnetsdk.cpp:5378][Info][0] Leave CLIENT_QuerySystemInfo.[ret=1.]
+Begin Time:2022-09-24 11:38:14.178
+[2022-09-24 11:38:14.178][P:8392/T:6880][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:38:14.208][P:8392/T:6880][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 000002D6DA100000
+
+[2022-09-24 11:38:14.212][P:8392/T:6880][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:38:14.212][P:8392/T:6880][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:38:14.212][P:8392/T:6880][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:38:14.229][P:8392/T:6880][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 000002D6DA100000
+
+[2022-09-24 11:38:14.229][P:8392/T:6880][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:38:14.236][P:8392/T:6880][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:38:14.236][P:8392/T:6880][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=192.168.1.108, port=37777, SpeCap=0, lpDeviceInfo=000000C0000201C0.]
+[2022-09-24 11:38:14.364][P:8392/T:6880][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=0, login ID=-639598896.]
+[2022-09-24 11:38:14.373][P:8392/T:6880][dhnetsdk.cpp:5342][Info][0] Enter CLIENT_QuerySystemInfo. [lLoginID=-639598896, nSystemType=26, pSysInfoBuffer=000000C000086000, maxlen=2048, nSysInfolen=000000C000088000, waittime=1000.]
+[2022-09-24 11:38:14.399][P:8392/T:2428][DecoderDevice.cpp:145][Error][90000008] Error device response code: -1
+[2022-09-24 11:38:14.399][P:8392/T:6880][DecoderDevice.cpp:410][Error][80000015] Return data error!
+[2022-09-24 11:38:14.400][P:8392/T:6880][dhnetsdk.cpp:5378][Info][0] Leave CLIENT_QuerySystemInfo.[ret=1.]
+Begin Time:2022-09-24 11:38:42.633
+[2022-09-24 11:38:42.633][P:8492/T:7968][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:38:42.666][P:8492/T:7968][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 0000019AFE800000
+
+[2022-09-24 11:38:42.670][P:8492/T:7968][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:38:42.670][P:8492/T:7968][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:38:42.670][P:8492/T:7968][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:38:42.693][P:8492/T:7968][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 0000019AA0000000
+
+[2022-09-24 11:38:42.693][P:8492/T:7968][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:38:42.700][P:8492/T:7968][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:38:42.700][P:8492/T:7968][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=192.168.1.108, port=37777, SpeCap=0, lpDeviceInfo=000000C0000CC000.]
+[2022-09-24 11:38:42.822][P:8492/T:7968][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=0, login ID=-28285168.]
+[2022-09-24 11:38:42.823][P:8492/T:7968][dhnetsdk.cpp:5342][Info][0] Enter CLIENT_QuerySystemInfo. [lLoginID=-28285168, nSystemType=26, pSysInfoBuffer=000000C0000D2000, maxlen=2048, nSysInfolen=000000C0000A2100, waittime=1000.]
+[2022-09-24 11:38:42.841][P:8492/T:2544][DecoderDevice.cpp:145][Error][90000008] Error device response code: -1
+[2022-09-24 11:38:42.841][P:8492/T:7968][DecoderDevice.cpp:410][Error][80000015] Return data error!
+[2022-09-24 11:38:42.841][P:8492/T:7968][dhnetsdk.cpp:5378][Info][0] Leave CLIENT_QuerySystemInfo.[ret=1.]
+Begin Time:2022-09-24 11:39:54.212
+[2022-09-24 11:39:54.212][P:6908/T:2416][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:39:54.245][P:6908/T:2416][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 0000017FEF810000
+
+[2022-09-24 11:39:54.249][P:6908/T:2416][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:39:54.250][P:6908/T:2416][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:39:54.250][P:6908/T:2416][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:39:54.268][P:6908/T:2416][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 0000017FEF810000
+
+[2022-09-24 11:39:54.268][P:6908/T:2416][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:39:54.275][P:6908/T:2416][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:39:54.275][P:6908/T:2416][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=192.168.1.108, port=37777, SpeCap=0, lpDeviceInfo=000000C0000CC000.]
+[2022-09-24 11:39:54.382][P:6908/T:2416][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=0, login ID=-279865600.]
+[2022-09-24 11:39:54.383][P:6908/T:2416][dhnetsdk.cpp:5342][Info][0] Enter CLIENT_QuerySystemInfo. [lLoginID=-279865600, nSystemType=26, pSysInfoBuffer=000000C0000D2000, maxlen=2048, nSysInfolen=000000C0000A20F8, waittime=1000.]
+[2022-09-24 11:39:54.404][P:6908/T:9040][DecoderDevice.cpp:145][Error][90000008] Error device response code: -1
+[2022-09-24 11:39:54.404][P:6908/T:2416][DecoderDevice.cpp:410][Error][80000015] Return data error!
+[2022-09-24 11:39:54.404][P:6908/T:2416][dhnetsdk.cpp:5378][Info][0] Leave CLIENT_QuerySystemInfo.[ret=1.]
+Begin Time:2022-09-24 11:39:56.772
+[2022-09-24 11:39:56.772][P:5796/T:8604][Utils.cpp:4792][Info][0] mutil NIC client
+[2022-09-24 11:39:56.798][P:5796/T:8604][AVNetSDKMgr.cpp:655][Info][0] Test avnetsdk module handle: 00000197B2310000
+
+[2022-09-24 11:39:56.802][P:5796/T:8604][dhnetsdk.cpp:155][Info][0] Leave CLIENT_InitEx.
+[2022-09-24 11:39:56.802][P:5796/T:8604][dhnetsdk.cpp:230][Info][0] Enter CLIENT_SetNetworkParam:[nWaittime=0, nConnectTime=0, nConnectTryNum=2, nSubConnectSpaceTime=0, nGetDevInfoTime=3000, nConnectBufSize=0, nGetConnInfoTime=0, nSearchRecordTime=0, nsubDisconnetTime=0, byNetType=0, byPlaybackBufSize=0, bDetectDisconnTime=0, bKeepLifeInterval=0, nPicBufSize=0].
+[2022-09-24 11:39:56.802][P:5796/T:8604][AVNetSDKMgr.cpp:358][Info][0] Load avnetsdk library dynamically
+[2022-09-24 11:39:56.820][P:5796/T:8604][AVNetSDKMgr.cpp:382][Info][0] avnetsdk module handle: 00000197B2310000
+
+[2022-09-24 11:39:56.820][P:5796/T:8604][AVNetSDKMgr.cpp:702][Info][0] Load configsdk dynamically
+[2022-09-24 11:39:56.826][P:5796/T:8604][dhnetsdk.cpp:245][Info][0] Leave CLIENT_SetNetworkParam.
+[2022-09-24 11:39:56.826][P:5796/T:8604][dhnetsdk.cpp:582][Info][0] Enter CLIENT_LoginEx2. [IP=192.168.1.108, port=37777, SpeCap=0, lpDeviceInfo=000000C0000CC000.]
+[2022-09-24 11:39:56.934][P:5796/T:8604][dhnetsdk.cpp:618][Info][0] Leave CLIENT_LoginEx2. [error=0, login ID=-1308522032.]
+[2022-09-24 11:39:56.935][P:5796/T:8604][dhnetsdk.cpp:5342][Info][0] Enter CLIENT_QuerySystemInfo. [lLoginID=-1308522032, nSystemType=26, pSysInfoBuffer=000000C0000D2000, maxlen=2048, nSysInfolen=000000C0000A2100, waittime=1000.]
+[2022-09-24 11:39:56.948][P:5796/T:9064][DecoderDevice.cpp:145][Error][90000008] Error device response code: -1
+[2022-09-24 11:39:56.948][P:5796/T:8604][DecoderDevice.cpp:410][Error][80000015] Return data error!
+[2022-09-24 11:39:56.948][P:5796/T:8604][dhnetsdk.cpp:5378][Info][0] Leave CLIENT_QuerySystemInfo.[ret=1.]
