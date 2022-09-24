@@ -13,19 +13,17 @@ const (
 )
 
 var (
-	dhnetsdkDll *syscall.DLL
-)
-
-var (
-	client_Init            *syscall.Proc
-	client_SetNetworkParam *syscall.Proc
-	client_LoginEx2        *syscall.Proc
-	client_Logout          *syscall.Proc
-	client_Cleanup         *syscall.Proc
-	client_SetDevConfig    *syscall.Proc
-	client_GetDevConfig    *syscall.Proc
-	client_GetLastError    *syscall.Proc
-	client_QuerySystemInfo *syscall.Proc
+	//dhnetsdkDll *syscall.DLL
+	dhnetsdkDll            *syscall.LazyDLL
+	client_Init            *syscall.LazyProc
+	client_SetNetworkParam *syscall.LazyProc
+	client_LoginEx2        *syscall.LazyProc
+	client_Logout          *syscall.LazyProc
+	client_Cleanup         *syscall.LazyProc
+	client_SetDevConfig    *syscall.LazyProc
+	client_GetDevConfig    *syscall.LazyProc
+	client_GetLastError    *syscall.LazyProc
+	client_QuerySystemInfo *syscall.LazyProc
 )
 
 type DH_DEV_ENABLE_INFO struct {
@@ -33,17 +31,18 @@ type DH_DEV_ENABLE_INFO struct {
 }
 
 func init() {
-	dhnetsdkDll = syscall.MustLoadDLL("sdk/dhnetsdk.dll")
+	//dhnetsdkDll = syscall.MustLoadDLL("sdk/dhnetsdk.dll")
+	dhnetsdkDll = syscall.NewLazyDLL("sdk/dhnetsdk.dll")
 
-	client_Init = dhnetsdkDll.MustFindProc("CLIENT_Init")
-	client_SetNetworkParam = dhnetsdkDll.MustFindProc("CLIENT_SetNetworkParam")
-	client_LoginEx2 = dhnetsdkDll.MustFindProc("CLIENT_LoginEx2")
-	client_Logout = dhnetsdkDll.MustFindProc("CLIENT_Logout")
-	client_Cleanup = dhnetsdkDll.MustFindProc("CLIENT_Cleanup")
-	client_SetDevConfig = dhnetsdkDll.MustFindProc("CLIENT_SetDevConfig")
-	client_GetDevConfig = dhnetsdkDll.MustFindProc("CLIENT_GetDevConfig")
-	client_GetLastError = dhnetsdkDll.MustFindProc("CLIENT_GetLastError")
-	client_QuerySystemInfo = dhnetsdkDll.MustFindProc("CLIENT_QuerySystemInfo")
+	client_Init = dhnetsdkDll.NewProc("CLIENT_Init")
+	client_SetNetworkParam = dhnetsdkDll.NewProc("CLIENT_SetNetworkParam")
+	client_LoginEx2 = dhnetsdkDll.NewProc("CLIENT_LoginEx2")
+	client_Logout = dhnetsdkDll.NewProc("CLIENT_Logout")
+	client_Cleanup = dhnetsdkDll.NewProc("CLIENT_Cleanup")
+	client_SetDevConfig = dhnetsdkDll.NewProc("CLIENT_SetDevConfig")
+	client_GetDevConfig = dhnetsdkDll.NewProc("CLIENT_GetDevConfig")
+	client_GetLastError = dhnetsdkDll.NewProc("CLIENT_GetLastError")
+	client_QuerySystemInfo = dhnetsdkDll.NewProc("CLIENT_QuerySystemInfo")
 }
 
 func main() {
@@ -88,7 +87,12 @@ func main() {
 }
 
 func StringToBytePtr(str string) *byte {
-	return syscall.StringBytePtr(str)
+	p, err := syscall.BytePtrFromString(str)
+	if err != nil {
+		return nil
+	}
+	return p
+	//return windows.BytePtrToString([]byte(str))
 }
 
 func CLIENT_Init(cbDisConnect uintptr, dwUser uint32) bool {
