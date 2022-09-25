@@ -14,6 +14,7 @@ const (
 
 var (
 	//dhnetsdkDll *syscall.DLL
+
 	dhnetsdkDll            *syscall.LazyDLL
 	client_Init            *syscall.LazyProc
 	client_SetNetworkParam *syscall.LazyProc
